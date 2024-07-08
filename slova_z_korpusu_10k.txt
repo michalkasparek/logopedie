@@ -69,7 +69,6 @@ vlas
 adekvátní
 vzrůst
 předpoklad
-t
 pitomý
 dvůr
 ocitnout
@@ -139,14 +138,12 @@ desítka
 rozhodný
 dobrý
 byte
-KB
 svítit
 drastický
 ekolog
 propustit
 profesionálně
 disident
-tu
 památkový
 otevření
 šperk
@@ -230,7 +227,6 @@ prvoligový
 pyšný
 vteřina
 zmást
-DM
 kdo
 škoda
 přistát
@@ -267,7 +263,6 @@ Mark
 účel
 pořádně
 směrnice
-li
 částečně
 směřující
 strážce
@@ -313,7 +308,6 @@ metoda
 Bernard
 vegetace
 široký
-AC
 první
 cyklista
 velkolepý
@@ -371,7 +365,6 @@ Arthur
 Chalupa
 klimatický
 mizerný
-OH
 zapadat
 vítaný
 čelist
@@ -385,7 +378,6 @@ Carlo
 Boleslav
 břicho
 obsahující
-od
 dohodnout
 dotčený
 new
@@ -448,7 +440,6 @@ strávit
 přizpůsobit
 Thomas
 kauza
-mj
 legie
 Česko
 péče
@@ -465,7 +456,6 @@ sběrný
 stání
 rázem
 týž
-st
 lovit
 publikovat
 nastolit
@@ -533,9 +523,7 @@ Eliška
 řízení
 transakce
 studovat
-le
 Alfa
-Y
 zaznamenávat
 mince
 und
@@ -632,7 +620,6 @@ pohádkový
 spojený
 architektonický
 sledovat
-HN
 skutek
 odkud
 fotbalista
@@ -674,7 +661,6 @@ průměrně
 exportní
 luxus
 Mlynář
-T
 poukázat
 chirurgie
 slib
@@ -798,7 +784,6 @@ hora
 David
 smluvní
 zaplnit
-SR
 lázeň
 vlastnit
 mokrý
@@ -852,7 +837,6 @@ Smiley
 pochybovat
 obsah
 včerejší
-G
 motiv
 vydávat
 ruka
@@ -904,8 +888,8 @@ obvod
 utvořit
 pohlavní
 cenný
-konkurent
 Kučera
+konkurent
 státní
 spolu
 projev
@@ -961,7 +945,6 @@ rekord
 vojenský
 vytlačit
 odpadnout
-VW
 podniknout
 oznámit
 redaktor
@@ -1032,7 +1015,6 @@ rozběhnout
 řádově
 nakreslit
 regulátor
-P
 pomsta
 Rusko
 zachycovat
@@ -1064,10 +1046,8 @@ byrokratický
 klasik
 obava
 pohromadě
-až
 odporovat
 přimět
-č
 enkláva
 Bavorsko
 měsíční
@@ -1205,11 +1185,9 @@ dotaz
 jedinec
 lom
 Ota
-n
-zapisovat
 paměti
+zapisovat
 odbýt
-Š
 federální
 barva
 tolerovat
@@ -1277,7 +1255,6 @@ památka
 obydlí
 pohlížet
 vzhledem
-Z
 balíček
 lehce
 koaliční
@@ -1309,8 +1286,8 @@ prohra
 pohnout
 vědět
 středoškolský
-rozumět
 Atlanta
+rozumět
 stopa
 ostravský
 holka
@@ -1397,7 +1374,6 @@ let
 přesvědčivě
 ČEZ
 zpívat
-po
 oddíl
 těhotenství
 Tomáš
@@ -1467,7 +1443,6 @@ najíst
 rozesmát
 Joanna
 duševní
-na
 udržování
 vždy
 sazba
@@ -1475,7 +1450,6 @@ prezídium
 úhel
 položka
 malostranský
-M
 uspokojivý
 myšlení
 chov
@@ -1524,7 +1498,6 @@ odpověď
 poskytnout
 uvedení
 zvaný
-St
 Zdeněk
 vyslat
 Oslo
@@ -1544,9 +1517,7 @@ vznést
 přesvědčený
 lázně
 cvičit
-m
 dokončit
-tj
 horečka
 bezpečnostní
 fungovat
@@ -1646,7 +1617,6 @@ vypracovat
 kopírovat
 Zlín
 nahrávat
-mg
 úspěch
 chůze
 osmnáct
@@ -1675,10 +1645,8 @@ studna
 vytáhnout
 sklízet
 zkrácený
-já
 vyloučený
 strčit
-So
 cestovatel
 stánek
 vinný
@@ -1701,10 +1669,9 @@ odporný
 nahrát
 Žižka
 uznání
-probudit
 dostatečný
+probudit
 příjemně
-to
 léčení
 mírně
 najevo
@@ -1833,7 +1800,6 @@ nostalgie
 kvalitní
 nemocnice
 osnova
-de
 povedený
 startovat
 přesun
@@ -1853,7 +1819,6 @@ restrukturalizace
 psaný
 poliklinika
 odvádět
-f
 turecký
 technika
 rumunský
@@ -1897,7 +1862,6 @@ pěvecký
 podstoupit
 prestiž
 mlčky
-ty
 sídliště
 obývací
 zastřelit
@@ -1924,7 +1888,6 @@ labyrint
 dokument
 skin
 grafický
-IV
 otevřený
 letopočet
 rozvinutý
@@ -2214,7 +2177,6 @@ pracovat
 index
 přibližovat
 Smetana
-ČR
 adept
 příležitost
 prominout
@@ -2232,7 +2194,6 @@ strašlivý
 ing
 zamítnout
 Jane
-e
 sloužit
 ofenzíva
 dělit
@@ -2317,7 +2278,6 @@ lhostejnost
 nyní
 napětí
 zahájení
-sa
 čečenský
 podnikatel
 dodržovat
@@ -2387,7 +2347,6 @@ dvojnásobek
 dosavadní
 lákat
 realizovat
-ml
 všestranný
 šestnáctiletý
 držet
@@ -2426,14 +2385,12 @@ jasně
 sedadlo
 stíhačka
 povídka
-la
 Albánec
 konkrétní
 květ
 kdokoli
 čtyřicetiletý
 špína
-h
 píseň
 spoj
 Litva
@@ -2515,7 +2472,6 @@ statečný
 ústředí
 ukládání
 dědeček
-Sb
 byť
 maturita
 natáčet
@@ -2604,7 +2560,6 @@ délka
 tučný
 blahobyt
 ocitat
-ČS
 příměří
 výstupní
 instinkt
@@ -2699,7 +2654,6 @@ přestřelka
 putovat
 rock
 devět
-př
 papež
 archeologický
 důraz
@@ -2709,7 +2663,6 @@ Albert
 zahlédnout
 liberalizace
 dlouho
-ŽK
 konkurenční
 jedině
 chlubit
@@ -2729,8 +2682,6 @@ Klaus
 ukončit
 minout
 poděkovat
-EU
-di
 prokurátor
 večírek
 závěs
@@ -2783,7 +2734,6 @@ průvod
 rudý
 postrádat
 chystat
-j
 hutní
 samota
 dlaň
@@ -2945,7 +2895,6 @@ stud
 dozvědět
 ovzduší
 dvojice
-N
 Alice
 příznačný
 ustat
@@ -3044,7 +2993,6 @@ ohromný
 teror
 zatáhnout
 rybí
-PV
 Pospíšil
 Jelcin
 mobil
@@ -3172,7 +3120,6 @@ dlouhodobý
 daleký
 Vlček
 scenárista
-ES
 býk
 láska
 arabský
@@ -3234,7 +3181,6 @@ textový
 bezpečně
 Sofie
 pře
-Dr
 polštář
 růžový
 zachovávat
@@ -3242,7 +3188,6 @@ izolace
 IBM
 ušlechtilý
 osmnáctiletý
-U
 masivní
 srážka
 Island
@@ -3279,8 +3224,6 @@ výkyv
 úspěšnost
 mimochodem
 systematicky
-ZŠ
-on
 sezení
 dvacátý
 vyrovnávat
@@ -3315,7 +3258,6 @@ zapomenutý
 zastoupení
 celní
 armáda
-d
 zhodnotit
 junior
 házenkář
@@ -3382,7 +3324,6 @@ podél
 vzhůru
 vrchol
 zobrazovat
-LN
 získávání
 podvodník
 mládenec
@@ -3397,7 +3338,6 @@ vlk
 hospodařit
 sokol
 Rus
-vy
 povstání
 dohodnutý
 komunální
@@ -3437,12 +3377,10 @@ spektrum
 měsíčně
 bankovnictví
 Liberec
-ř
 zlý
 líbat
 Čermák
 dotýkat
-ó
 íránský
 potvrdit
 prdel
@@ -3685,7 +3623,6 @@ agent
 otvírat
 výlučně
 výslech
-UK
 nadějný
 stejně
 rozpětí
@@ -3696,7 +3633,6 @@ dál
 jakýsi
 moč
 promíchat
-A
 expanze
 lyžař
 správa
@@ -3710,7 +3646,6 @@ vrcholit
 hřbet
 orchestr
 porazit
-so
 obsažený
 zpěv
 dýchání
@@ -3820,13 +3755,10 @@ zábavný
 trénovat
 chopit
 krása
-R
-už
 fyzikální
 palivo
 hloupost
 Estonsko
-z
 kolo
 matematika
 půjčovat
@@ -3844,7 +3776,6 @@ zóna
 udělit
 Titanik
 výjev
-ha
 klávesa
 ČTA
 užívat
@@ -3913,7 +3844,6 @@ uhlí
 složka
 louka
 podzim
-et
 účelný
 obměna
 výstavní
@@ -3957,7 +3887,6 @@ Chris
 funkce
 podílet
 platnost
-oč
 aktér
 maminka
 zároveň
@@ -4148,7 +4077,6 @@ extrémně
 Kopřivnice
 produkt
 odkládat
-OF
 nula
 rovnat
 rychle
@@ -4156,10 +4084,8 @@ průmysl
 obvodní
 chvět
 sleva
-ne
-D
-bezesporu
 srpnový
+bezesporu
 zobrazit
 litr
 být
@@ -4385,7 +4311,6 @@ logika
 vyhrožovat
 trojúhelník
 potravinářský
-Zn
 Daniel
 bylina
 spravedlnost
@@ -4495,7 +4420,6 @@ výkonný
 pracovník
 popírat
 ČSA
-že
 sako
 pozorný
 vést
@@ -4634,7 +4558,6 @@ práce
 zapomínat
 paměť
 univerzita
-Sk
 čtverec
 kamera
 shánět
@@ -4652,10 +4575,8 @@ západ
 ranní
 kožní
 vězeňský
-L
 tamější
 Pelhřimov
-km
 odebrat
 nadcházející
 odebírat
@@ -4717,7 +4638,6 @@ jízdní
 působit
 recenze
 polévka
-V
 zpěvák
 salón
 kometa
@@ -4809,7 +4729,6 @@ realistický
 agentura
 vklad
 ateliér
-K
 identifikace
 zaplacený
 obchodovat
@@ -4915,7 +4834,6 @@ zmocnit
 vyčerpat
 takhle
 ztrácet
-p
 Intel
 postupující
 blízkost
@@ -4959,7 +4877,6 @@ silniční
 usmívat
 slabě
 nezbytnost
-TV
 hotovost
 sjezdovka
 chráněný
@@ -5000,7 +4917,6 @@ Místek
 úroda
 popadnout
 odpovědnost
-Čs
 třetina
 Gigi
 stručný
@@ -5048,7 +4964,6 @@ nadsázka
 patrný
 uskutečnění
 bible
-my
 nováček
 Beneš
 módní
@@ -5100,7 +5015,6 @@ Madrid
 pátý
 milión
 černoch
-o
 kohoutek
 brněnský
 spící
@@ -5278,7 +5192,6 @@ sportovní
 zvládnout
 mír
 dokola
-sv
 zkrátit
 rival
 Mečiarův
@@ -5385,9 +5298,8 @@ hlasování
 maximální
 dolů
 den
-Kč
-vkládat
 odsunout
+vkládat
 přidat
 dokázat
 konzultace
@@ -5425,7 +5337,6 @@ chutnat
 přivolat
 štáb
 revize
-VI
 natož
 donedávna
 rozklad
@@ -5461,7 +5372,6 @@ právem
 neštěstí
 pominout
 závod
-W
 Srbsko
 statistický
 seriózní
@@ -5475,7 +5385,6 @@ zápas
 africký
 kritérium
 důl
-me
 hokejista
 relace
 desetiletý
@@ -5494,7 +5403,6 @@ ocenit
 zajištěný
 hlídat
 zvyšující
-of
 Blair
 duel
 zakončit
@@ -5516,7 +5424,6 @@ tolerance
 vstupní
 stadión
 naleziště
-Mr
 volat
 malý
 jazykový
@@ -5524,7 +5431,6 @@ garant
 plech
 odchod
 prodloužit
-ČD
 poměry
 rezidence
 zatížit
@@ -5547,7 +5453,6 @@ doplatit
 označení
 robot
 zralý
-E
 zpravodajský
 rozšíření
 topit
@@ -5574,7 +5479,6 @@ vynést
 gól
 závidět
 vyvíjet
-F
 mozek
 zavedený
 Krč
@@ -5628,7 +5532,6 @@ jinde
 spolkový
 Chovanec
 Izrael
-á
 pozdní
 jestliže
 reagovat
@@ -5697,7 +5600,6 @@ přestávka
 Sarajevo
 rubl
 volič
-ul
 rozdělit
 plochý
 zdaleka
@@ -5707,11 +5609,10 @@ duchovní
 těžba
 datum
 cikán
-dr
 čtyřikrát
 topný
-kurt
 řasa
+kurt
 logicky
 lékařský
 podmínka
@@ -5732,7 +5633,6 @@ oprávněně
 komora
 ruský
 cenit
-se
 komando
 vyběhnout
 vysokoškolský
@@ -5834,7 +5734,6 @@ vysadit
 taneční
 škála
 chovat
-C
 off
 zacházení
 formát
@@ -5877,7 +5776,6 @@ ublížení
 statistika
 omezení
 zkušební
-PC
 klíč
 kriminalita
 překročení
@@ -5992,7 +5890,6 @@ doprovod
 nejednou
 hráz
 zdůvodnit
-ex
 prokuratura
 sdělit
 areál
@@ -6020,7 +5917,6 @@ zvolat
 lékárna
 přelom
 loutka
-w
 zákonitost
 rozumný
 výrobní
@@ -6059,7 +5955,6 @@ copak
 proměna
 vápenec
 společensky
-čs
 zahraniční
 jemný
 ostře
@@ -6070,7 +5965,6 @@ rozlehlý
 unie
 vděčný
 vyplynout
-O
 Bělehrad
 předvolební
 vykřiknout
@@ -6114,15 +6008,14 @@ brzda
 kontinuita
 stavebnictví
 tlustý
-CD
 žloutek
+Hitlerův
 Argentina
 vybavení
 prodejce
 kráva
 psycholog
 plátno
-Hitlerův
 vnitro
 nedávno
 dluhopis
@@ -6211,7 +6104,6 @@ komunistický
 filozofický
 celoživotní
 odhodlání
-MS
 Juventus
 sen
 trestat
@@ -6234,7 +6126,6 @@ eventuální
 vsetínský
 svědomí
 skupinový
-u
 přestupek
 stravování
 dokumentovat
@@ -6408,7 +6299,6 @@ Veselý
 fyzicky
 kůra
 terorismus
-r
 kombinovaný
 pěstitel
 pochlubit
@@ -6429,7 +6319,6 @@ venkovní
 samozřejmě
 ovlivnit
 plný
-čl
 dnešní
 cestující
 oběh
@@ -6526,7 +6415,6 @@ akademie
 nádherný
 otazník
 pozdrav
-PP
 marný
 trenérský
 ucho
@@ -6789,7 +6677,6 @@ výzkum
 vyzvat
 kytarista
 váhání
-kg
 báze
 motor
 čtk
@@ -6832,16 +6719,15 @@ Třeboň
 podívat
 psychologický
 poznávací
-uniknout
-záloha
-energetika
-britský
 relativní
+záloha
+uniknout
+britský
+energetika
 Kodaň
 výpadek
 jáma
 řeka
-SK
 výsledek
 vykazovat
 mohutný
@@ -6870,7 +6756,6 @@ přiměřeně
 Hradiště
 hodnost
 poblíž
-ať
 Jihočech
 zdát
 velitel
@@ -6887,7 +6772,6 @@ namísto
 CSc
 sociologický
 zvědavost
-za
 učitelka
 zabalit
 půvab
@@ -6898,7 +6782,6 @@ gruzínský
 vystupovat
 rozlišovat
 severomoravský
-či
 odvolávat
 mnohdy
 edice
@@ -6933,7 +6816,6 @@ SPD
 brát
 Skalický
 buňka
-TJ
 mrkev
 záliba
 uvědomit
@@ -6944,7 +6826,6 @@ zkrácení
 zahrnout
 sebevědomí
 hluk
-ˇ
 produkovat
 lyrický
 oprávněný
@@ -7136,7 +7017,6 @@ věřící
 Kurd
 Navrátil
 přiletět
-H
 Češka
 most
 rozdat
@@ -7171,9 +7051,7 @@ min
 jeden
 obilí
 bitva
-hl
 jasný
-X
 metodika
 amatérský
 hřiště
@@ -7211,13 +7089,11 @@ podnik
 jarní
 nejprve
 klesnout
-ČT
 Tom
 upustit
 hostovat
 sluneční
 biologický
-jo
 inflační
 vychovávat
 probojovat
@@ -7245,7 +7121,6 @@ lední
 vyplnit
 zkoumání
 záchranář
-do
 dovolená
 rovnou
 vypít
@@ -7320,7 +7195,6 @@ nicméně
 kritika
 příhoda
 zablokovat
-ÚV
 donutit
 stezka
 norský
@@ -7441,7 +7315,6 @@ síťový
 muzika
 motto
 překonání
-Al
 vodorovný
 pochod
 nuda
@@ -7469,7 +7342,6 @@ zkratka
 jenže
 technik
 záliv
-čí
 občasný
 dálnice
 protokol
@@ -7666,7 +7538,6 @@ splnění
 čekání
 dělostřelecký
 Václav
-SP
 Roman
 vzdušný
 nosný
@@ -7781,7 +7652,6 @@ vyjednávání
 oděv
 dojem
 pohltit
-J
 teoretik
 thriller
 klavírní
@@ -7790,7 +7660,6 @@ investovat
 dopoledne
 zdarma
 usoudit
-hm
 kutný
 Charlie
 vejce
@@ -7837,7 +7706,6 @@ pokrývka
 ohled
 šlapat
 tabu
-b
 ukázka
 nádobí
 hádka
@@ -7857,7 +7725,6 @@ utrhnout
 dostání
 zarazit
 uniforma
-no
 armádní
 elegantní
 pramenit
@@ -7887,7 +7754,6 @@ odborář
 zahrada
 trám
 hrůza
-MF
 Jake
 zabezpečit
 brzký
@@ -7936,7 +7802,6 @@ všední
 uspět
 všeobecně
 maličký
-ač
 vyslechnout
 vždyť
 plemeno
@@ -8014,7 +7879,6 @@ pronájem
 zjistit
 vložený
 video
-FC
 samopal
 říjnový
 mariánský
@@ -8037,7 +7901,6 @@ finský
 okupovaný
 voda
 průběžný
-B
 Číňan
 pojišťovací
 Slavia
@@ -8106,7 +7969,6 @@ kvarteto
 bezmála
 dokonalý
 bezprostředně
-MB
 taktický
 aha
 londýnský
@@ -8135,7 +7997,6 @@ ukazatel
 portugalský
 francouzský
 Lukeš
-k
 Varšava
 anonymní
 měření
@@ -8282,7 +8143,6 @@ profesionál
 foto
 Clinton
 nesouhlas
-a
 dokumentární
 hluboko
 kabelový
@@ -8313,7 +8173,6 @@ veškerý
 vystoupení
 dánský
 dopadat
-ba
 udělovat
 silný
 alternativa
@@ -8411,7 +8270,6 @@ střelba
 ocas
 Malý
 nacista
-Č
 islám
 jídelní
 počasí
@@ -8520,7 +8378,6 @@ oblačno
 extraligový
 ZOO
 hollywoodský
-us
 zůstávat
 Juraj
 tajný
@@ -8756,10 +8613,8 @@ konstrukční
 zle
 zpráva
 rozdělení
-l
 Kčs
 snadný
-FS
 smést
 hele
 dnešek
@@ -8800,7 +8655,6 @@ Tchaj-wan
 poprvé
 hledisko
 podezírat
-in
 režírovat
 móda
 Příbram
@@ -8873,7 +8727,6 @@ brutální
 jednotný
 Kratochvíl
 strom
-co
 obec
 rekreační
 sklenice
@@ -8908,7 +8761,6 @@ permanentní
 pragmatický
 odjet
 fara
-g
 česko-slovenský
 asistent
 MHz
@@ -8931,7 +8783,6 @@ kardinál
 peněženka
 slepice
 kameraman
-ME
 říkat
 bulharský
 předsíň
@@ -9042,7 +8893,6 @@ syrový
 sekretářka
 temnota
 čtvrtek
-kW
 Ned
 předložený
 normální
@@ -9087,7 +8937,6 @@ problematický
 odvětit
 slavnostní
 vaření
-aj
 Rumun
 zkomplikovat
 záruční
@@ -9116,7 +8965,6 @@ příbramský
 Jeseník
 termínovaný
 naléhavý
-c
 inkasovat
 mld
 upravit
@@ -9127,7 +8975,6 @@ vzdělání
 společenský
 uspořádaný
 skýtat
-IF
 zámoří
 motorista
 přátelsky
@@ -9196,7 +9043,6 @@ mezi
 omluva
 končetina
 sparťan
-I
 Hanák
 pokuta
 potomek
@@ -9228,7 +9074,6 @@ francouzština
 pod
 převážně
 pachatel
-HC
 pracoviště
 odstraňování
 fialový
@@ -9289,7 +9134,6 @@ honorář
 domáhat
 označit
 úspěšně
-FP
 jakkoliv
 hejno
 založení
@@ -9519,7 +9363,6 @@ hlavička
 sekundární
 česko-německý
 sbohem
-II
 George
 stavení
 vize
@@ -9600,13 +9443,11 @@ projíždět
 vrozený
 území
 odpor
-s
 zbytečný
 ledovec
 respektování
 lhát
 snít
-nu
 nevěsta
 odhalit
 estetický
@@ -9714,7 +9555,6 @@ soudruh
 doplňovat
 stavební
 vlek
-cm
 chladný
 střevo
 porušovat
@@ -9796,7 +9636,6 @@ jet
 SDL
 výkřik
 obyvatel
-ad
 zmenšovat
 sedm
 udeřit
@@ -9820,7 +9659,6 @@ zelenina
 životní
 domovní
 duma
-PX
 zpátky
 zpod
 neboli
@@ -9880,7 +9718,6 @@ moudrost
 ozbrojenec
 průměr
 dres
-y
 rod
 zodpovědný
 poznávat
@@ -9949,14 +9786,12 @@ poctivě
 zpřístupnit
 létat
 šátek
-S
 odběratel
 nikam
 výpis
 přečíst
 Třebová
 cihla
-du
 Stuttgart
 rozkládat
 postupně
